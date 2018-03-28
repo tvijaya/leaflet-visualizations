@@ -20,3 +20,6 @@ Visualize an earthquake data set.
    * Created a legend that will provide context for my map data.
 
 - - -
+
+Note:
+You have to execute this command in the folder where your code resides, because we are fetching data from other sources (not local data) ```run 'python -m http.server'```
